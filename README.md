@@ -1,1 +1,1 @@
-# Argon-Boilerplate-Angular-
+# Argon-Boilerplate-Angular
